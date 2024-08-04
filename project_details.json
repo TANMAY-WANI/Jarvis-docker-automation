@@ -1,0 +1,8 @@
+{
+    "project_folder": "Project0",
+    "framework_name": "NodeJS",
+    "framework_version": "latest",
+    "port_number": "3000",
+    "description": "It is a hello world nodejs application",
+    "environment": "production"
+}
