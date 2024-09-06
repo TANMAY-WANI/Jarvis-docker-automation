@@ -1,0 +1,9 @@
+{
+    "project_name": "Project0",
+    "project_folder_path": "/Users/tanmay/Documents/Jarvis-Docker Automation/Project0",
+    "framework_name": "NodeJS",
+    "framework_version": "latest",
+    "port_number": "3000",
+    "description": "It is a basic hello world node js application",
+    "environment": "production"
+}

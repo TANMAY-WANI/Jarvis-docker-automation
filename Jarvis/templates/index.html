@@ -71,7 +71,10 @@
     <div class="container">
         <h2>Project Details</h2>
         <form id="projectForm" action="/submit" method="post">
-            <label for="folderName">Project Folder Name:</label>
+            <label for="projectName">Project Name:</label>
+            <input type="text" id="projectName" name="projectName" required>
+
+            <label for="folderName">Path to the root directory:</label>
             <input type="text" id="folderName" name="folderName" required>
 
             <label for="frameworkName">Framework Name:</label>
